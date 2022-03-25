@@ -50,7 +50,7 @@ $ pip install mechanize lolcat
 $ pip2 install requests
 $ pip2 install machanize
 $ pkg install git
-$ https://github.com/Khalid2009sm/Pak-Old-Cloner
+$ git Clone https://github.com/Khalid2009sm/Pak-Old-Cloner
 ```
 #### RUN SCRIPT
 ```python
