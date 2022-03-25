@@ -39,7 +39,7 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 </br>
 <p align="center">
-      BD OLD FACEBOOK ACCOUNT CLONER
+      PAKISTANI OLD FACEBOOK ACCOUNT CLONER
 </p>
   
 #### INSTALL TOOL ON TERMUX
